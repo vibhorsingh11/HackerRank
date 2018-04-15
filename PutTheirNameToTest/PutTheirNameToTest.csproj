@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="Codes\BigSorting.cs" />
     <Compile Include="Codes\BST_Height.cs" />
+    <Compile Include="Codes\GradingStudents.cs" />
     <Compile Include="Codes\Level_Order_BST.cs" />
     <Compile Include="Codes\LinkedList.cs" />
     <Compile Include="Codes\RegEx.cs" />
