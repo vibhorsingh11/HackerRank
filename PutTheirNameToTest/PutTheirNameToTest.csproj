@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Algorithms\Implementation\AppleAndOrange.cs" />
     <Compile Include="Algorithms\Implementation\DivisibleSumPairs.cs" />
     <Compile Include="Codes\BigSorting.cs" />
     <Compile Include="Codes\BST_Height.cs" />
