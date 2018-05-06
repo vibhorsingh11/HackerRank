@@ -44,7 +44,20 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Algorithms\Implementation\AppleAndOrange.cs" />
+    <Compile Include="Algorithms\Implementation\BirthdayChocolate.cs" />
+    <Compile Include="Algorithms\Implementation\BonAppétit.cs" />
+    <Compile Include="Algorithms\Implementation\BreakingTheRecords.cs" />
+    <Compile Include="Algorithms\Implementation\CatsAndAMouse.cs" />
+    <Compile Include="Algorithms\Implementation\CountingValleys.cs" />
+    <Compile Include="Algorithms\Implementation\DayOfTheProgrammer.cs" />
     <Compile Include="Algorithms\Implementation\DivisibleSumPairs.cs" />
+    <Compile Include="Algorithms\Implementation\DrawingBook.cs" />
+    <Compile Include="Algorithms\Implementation\ElectronicsShop.cs" />
+    <Compile Include="Algorithms\Implementation\Kangaroo.cs" />
+    <Compile Include="Algorithms\Implementation\MigratoryBirds.cs" />
+    <Compile Include="Algorithms\Implementation\PickingNumbers.cs" />
+    <Compile Include="Algorithms\Implementation\SockMerchant.cs" />
+    <Compile Include="Algorithms\Implementation\TheHurdleRace.cs" />
     <Compile Include="Codes\BigSorting.cs" />
     <Compile Include="Codes\BST_Height.cs" />
     <Compile Include="Codes\GradingStudents.cs" />
