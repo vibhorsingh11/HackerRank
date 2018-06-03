@@ -65,6 +65,7 @@
     <Compile Include="Codes\LinkedList.cs" />
     <Compile Include="Codes\RegEx.cs" />
     <Compile Include="Codes\Staircase.cs" />
+    <Compile Include="Data Structures\2D Array - DS.cs" />
     <Compile Include="Data Structures\Array.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
